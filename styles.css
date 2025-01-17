@@ -390,7 +390,7 @@ header, body {
     font-weight: bold 700;
     color: #082B59;
     padding: 0;
-    margin-top: px;
+    margin-top: 0px;
     margin-left: 0px;
   }
   
@@ -467,7 +467,6 @@ header, body {
     position: relative;
     left: 0;
     top: 37%;
-   
     margin-top: 10%;
     padding: 20px;
     border-style: none;
@@ -535,6 +534,7 @@ header, body {
     margin-top: 40%;
     position: absolute;
   }
+
   .kraw h2 {
     position: absolute;
     width: 30%;
@@ -567,12 +567,12 @@ header, body {
     }
 
   .kraw3 a:hover {
-      color: #59331D;
-      font-family: "Lato", serif;
-      text-align: center;
-      font-size: 16pt;
-      font-weight: bold;
-      }
+    color: #59331D;
+    font-family: "Lato", serif;
+    text-align: center;
+    font-size: 16pt;
+    font-weight: bold;
+    }
 
   .menu2 img{
     display: flex;
@@ -584,12 +584,12 @@ header, body {
   .kraw2 h1 {
     display: flex; 
     flex-direction: row;
-      text-align: left;
-      margin-left: 0px;
-      font-size: 35pt;
-      font-family: "Poppins", serif;
-      font-weight: bold 700;
-      color: #082B59;
+    text-align: left;
+    margin-left: 0px;
+    font-size: 35pt;
+    font-family: "Poppins", serif;
+    font-weight: bold 700;
+    color: #082B59;
   }
 
  .kraw2 p {
@@ -636,85 +636,85 @@ header, body {
 
   .kraw3 {
     position: relative;
-  width: 100%;
-  margin-left: 0%;
-  margin-top: 20px;
+    width: 100%;
+    margin-left: 0%;
+    margin-top: 20px;
 
 
   }
     .kraw3 h1 {
-      position: relative;
-      text-align: center;
-      margin-left: 50px;
-      font-size: 35pt;
-      font-family: "Poppins", serif;
-      font-weight: bold 700;
-      color: #082B59;
+    position: relative;
+    text-align: center;
+    margin-left: 50px;
+    font-size: 35pt;
+    font-family: "Poppins", serif;
+    font-weight: bold 700;
+    color: #082B59;
     }
 
     .kraw3 p {
-      font-size: 15pt;
-      font-family: "Lato", serif;
-      font-weight: bold;
-      color: #082B59;
-      text-align: center;
+    font-size: 15pt;
+    font-family: "Lato", serif;
+    font-weight: bold;
+    color: #082B59;
+    text-align: center;
     }
 
     .conta {
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      padding: 0;
-      margin-top: 5%;
-      margin-right: 0%;
-      text-align: right;
-      width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0;
+    margin-top: 5%;
+    margin-right: 0%;
+    text-align: right;
+    width: 100%;
   
     }
   
     .conta2 img 
     {
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      width: 100%;
-   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
   
     }
+
     .conta3 h1 {
-      position: relative;
-      text-align: center;
-      margin-left: 0px;
-      font-size: 35pt;
-      font-family: "Poppins", serif;
-      font-weight: bold 700;
-      color: #082B59;
+    position: relative;
+    text-align: center;
+    margin-left: 0px;
+    font-size: 35pt;
+    font-family: "Poppins", serif;
+    font-weight: bold 700;
+    color: #082B59;
     }
   
     .conta3 p {
-      margin-left: 0%;
-      font-size: 15pt;
-      font-family: "Lato", serif;
-      font-weight: bold;
-      color: #082B59;
-      text-align: center;
+    margin-left: 0%;
+    font-size: 15pt;
+    font-family: "Lato", serif;
+    font-weight: bold;
+    color: #082B59;
+    text-align: center;
     }
   
-  .conta3 a {
-      color: #082B59;
-      font-family: "Lato", serif;
-      text-align: center;
-      font-size: 15pt;
-      font-weight: bold;
-      }
+    .conta3 a {
+    color: #082B59;
+    font-family: "Lato", serif;
+    text-align: center;
+    font-size: 15pt;
+    font-weight: bold;
+    }
   
     .conta3 a:hover {
-        color: #59331D;
-        font-family: "Lato", serif;
-        text-align: center;
-        font-size: 16pt;
-        font-weight: bold;
-        }
+    color: #59331D;
+    font-family: "Lato", serif;
+    text-align: center;
+    font-size: 16pt;
+    font-weight: bold;
+    }
 
 
 
@@ -879,7 +879,7 @@ header, body {
        
   }
 
-    .footcol {
+    .footcol {  
 
     display: inline-block;
     width: 80%;
@@ -1037,10 +1037,10 @@ header, body {
   }
 
   .icoffee {
-    left: 0;
-    right: 0;
-    margin-top: 10%;
-    }
+  left: 0;
+  right: 0;
+  margin-top: 10%;
+  }
    
   .icoffee img {
  
@@ -1166,136 +1166,136 @@ header, body {
     height: 100px;
     }
   
-    .flex-container {
+  .flex-container {
 
-      display: flex;
-      flex-direction: column;
-      justify-content: flex-start;
-     
-    }
-      .kraw {
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        padding: 0;
-        margin-top: 0px;
-        margin-right: 0%;
-        text-align: right;
-        width: 100%;
-    
-      }
-    
-      .kraw h1 {
-        position: absolute;
-        padding: 0px;
-        text-align: left;
-        margin-top: 20%;
-        margin-left: 50px;
-        font-size: 25pt;
-        font-family: "Poppins", serif;
-        font-weight: bold 700;
-        color: #f2f2f2;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+   
+  }
+  .kraw {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0;
+    margin-top: 0px;
+    margin-right: 0%;
+    text-align: right;
+    width: 100%;
+
+  }
+
+  .kraw h1 {
+    position: absolute;
+    padding: 0px;
+    text-align: left;
+    margin-top: 20%;
+    margin-left: 50px;
+    font-size: 25pt;
+    font-family: "Poppins", serif;
+    font-weight: bold 700;
+    color: #f2f2f2;
        
-      }
+  }
 
      
     
-      .kraw h2 {
-        position: absolute;
-        width: 30%;
-        text-align: right;
-        margin-top: 20%;
-        margin-left: 55%;
-        font-size: 23pt;
-        font-family: "Poppins", serif;
-        font-weight: bold 700;
-        color: #f2f2f2;
-      }
+  .kraw h2 {
+    position: absolute;
+    width: 30%;
+    text-align: right;
+    margin-top: 20%;
+    margin-left: 55%;
+    font-size: 23pt;
+    font-family: "Poppins", serif;
+    font-weight: bold 700;
+    color: #f2f2f2;
+  }
       
-      .kraw2 {
-        display: flex;
-        flex-direction: row;
-        margin-top: 3%;
-        margin-left: 0%;
-        width: 100%;
-        padding: 30px;
-        color: #59331D;
-        font-size: 15pt;
-        font-family: "Lato", serif;
-        font-weight: bold 700;
-       
-        
-       
+  .kraw2 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 3%;
+    margin-left: 0%;
+    width: 100%;
+    padding: 30px;
+    color: #59331D;
+    font-size: 15pt;
+    font-family: "Lato", serif;
+    font-weight: bold 700;
+   
     
-      }
+   
     
-      .kraw .menu2 {
-        display: flex;
-        flex-direction: row;
-        width: 30%;
+  }
     
-      }
+  .kraw .menu2 {
+    display: flex;
+    flex-direction: row;
+    width: 30%;
+
+  }
     
-     .kraw2 p {
-        margin: 20px;
-        padding: 20px;
-        font-size: 15pt;
-        font-family: "Lato", serif;
-        font-weight: bold 700;
-       
-      }
+  .kraw2 p {
+    margin: 20px;
+    padding: 20px;
+    font-size: 15pt;
+    font-family: "Lato", serif;
+    font-weight: bold 700;
     
-      .kraw2 .button {
-        position: relative;
-        padding: 20px;
-        top: 60%;
-        background-color: #59331D;
-        border: none;
-        color: white;
-        padding: 15px;
-        text-decoration: none;
-        cursor: pointer;
-        transition-duration: 0.4s;
-        font-family: "Lato", serif;
-        font-size: 13pt;
-      }
+  }
     
-      .kraw2 .button:hover {
-        background-color: #D98555;
-        border: none;
-        color: white;
-        padding: 15px;
-        text-decoration: none;
-        cursor: pointer;
-        font-size: 13pt;
+  .kraw2 .button {
+    position: relative;
+    padding: 20px;
+    top: 60%;
+    background-color: #59331D;
+    border: none;
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    font-family: "Lato", serif;
+    font-size: 13pt;
+  }
     
-        }
+  .kraw2 .button:hover {
+    background-color: #D98555;
+    border: none;
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 13pt;
+
+  }
     
-      .kraw3 {
-        position: relative;
-      width: 100%;
-      margin-left: 0%;
-      margin-top: 20px;
-    
-    
-      }
-        .kraw3 h1 {
-          position: relative;
-          text-align: center;
-          margin-left: 50px;
-          font-size: 35pt;
-          font-family: "Poppins", serif;
-          font-weight: bold 700;
-          color: #082B59;
-        }
-    
-        .kraw3 p {
-          font-size: 15pt;
-          font-family: "Lato", serif;
-          font-weight: bold;
-          color: #082B59;
-          text-align: center;
-        }
+  .kraw3 {
+    position: relative;
+    width: 100%;
+    margin-left: 0%;
+    margin-top: 20px;
+
+
+  }
+  .kraw3 h1 {
+    position: relative;
+    text-align: center;
+    margin-left: 50px;
+    font-size: 35pt;
+    font-family: "Poppins", serif;
+    font-weight: bold 700;
+    color: #082B59;
+  }
+
+  .kraw3 p {
+    font-size: 15pt;
+    font-family: "Lato", serif;
+    font-weight: bold;
+    color: #082B59;
+    text-align: center;
+  }
 
 
   #para {
@@ -1329,13 +1329,13 @@ header, body {
   font-weight: bold 700;
   color: #082B59;
   padding: 0;
-  margin-top: 0px;
-  margin-left: 0px;
+  margin-top: 30px;
+  margin-left: 5%;
 }
 
   #raz h2 {
-  margin-top: 0px;
-  margin-left: 0px;
+  margin-top: 30px;
+  margin-left: 5%;
   padding: 0px;
   font-size: 15pt;
   font-family: "Lato", serif;
@@ -1348,7 +1348,7 @@ header, body {
 
   #raz p {
   margin-top: 0%;
-  margin-left: 0px;
+  margin-left: 5%;
   padding: 0px;
   font-size: 14pt;
   font-family: "Lato", serif;
@@ -1372,11 +1372,13 @@ header, body {
   text-align: center;
   font-size: 14pt;
   font-weight: bold;
+  margin-left: 5%;
 }
 
 #raz .button {
   position: relative;
   top: 5%;
+  margin-left: 5%;
   background-color: #59331D;
   border: none;
   color: white;
@@ -1731,7 +1733,7 @@ color: #D98555;
     
   .prod1 {
   display: grid;
-  width: 50%;
+  width: 100%;
   position: relative;
   text-align: left;
   margin-left: 0%;
@@ -1748,8 +1750,9 @@ color: #D98555;
   font-weight: bold 700;
   color: #082B59;
   padding: 0;
-  margin-left: 40%;
-    }
+  margin-left: 5%;
+  margin-right: 0%;
+  }
   
   .prod2 {
   display: flex;
@@ -1763,9 +1766,6 @@ color: #D98555;
   
   }
   .prod2 h2 {
-  margin-top: 0px;
-  margin-left: 0px;
-  padding: 0px;
   font-size: 15pt;
   font-family: "Lato", serif;
   font-weight: 700;
@@ -1774,7 +1774,7 @@ color: #D98555;
   color: #f2f2f2;
   width: 100%;
   background-color: #082B59;
-    height: 90px;
+  height: 90px;
   }
     
   
@@ -1801,7 +1801,7 @@ color: #D98555;
   height: auto;
   top: 0px;
   padding: 0px;
-  margin-left: 30px;
+  margin-left: 10%;
 
   }
 
@@ -1811,7 +1811,7 @@ color: #D98555;
   font-weight: bold 700;
   color: #082B59;
   padding: 0;
-  margin-top: px;
+  margin-top: 0px;
   margin-left: 0px;
   }
   
@@ -1858,7 +1858,8 @@ color: #D98555;
   
   #raz .button {
   position: relative;
-  top: 5%;
+  margin-top: 10%;
+  margin-right: 30%;
   background-color: #59331D;
   border: none;
   color: white;
@@ -1915,8 +1916,8 @@ color: #D98555;
   }
 
   .menu {
-    display: flex;
-    width: 100%;
+  display: flex;
+  width: 100%;
 
   }
 
@@ -1929,126 +1930,126 @@ color: #D98555;
   justify-content: flex-start;
  
 }
-  .kraw {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    padding: 0;
-    margin-top: 0px;
-    margin-right: 0%;
-    text-align: right;
-    width: 100%;
+.kraw {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0;
+  margin-top: 0px;
+  margin-right: 0%;
+  text-align: right;
+  width: 100%;
 
-  }
+}
 
-  .kraw h1 {
-    position: absolute;
-    padding: 0px;
-    text-align: left;
-    margin-left: 10px;
-    font-size: 25pt;
-    font-family: "Poppins", serif;
-    font-weight: bold 700;
-    color: #f2f2f2;
+.kraw h1 {
+  position: absolute;
+  padding: 0px;
+  text-align: left;
+  margin-left: 10px;
+  font-size: 25pt;
+  font-family: "Poppins", serif;
+  font-weight: bold 700;
+  color: #f2f2f2;
    
-  }
+}
 
-  .kraw h2 {
-    position: absolute;
-    width: 30%;
-    text-align: right;
-    margin-top: 20%;
-    margin-left: 55%;
-    font-size: 23pt;
-    font-family: "Poppins", serif;
-    font-weight: bold 700;
-    color: #f2f2f2;
-  }
+.kraw h2 {
+  position: absolute;
+  width: 30%;
+  text-align: right;
+  margin-top: 20%;
+  margin-left: 55%;
+  font-size: 23pt;
+  font-family: "Poppins", serif;
+  font-weight: bold 700;
+  color: #f2f2f2;
+}
   
-  .kraw2 {
-    display: flex;
-    flex-direction: row;
-    margin-top: 3%;
-    margin-left: 0%;
-    width: 100%;
-    padding: 30px;
-    color: #59331D;
-    font-size: 15pt;
-    font-family: "Lato", serif;
-    font-weight: bold 700;
+.kraw2 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 3%;
+  margin-left: 0%;
+  width: 100%;
+  padding: 30px;
+  color: #59331D;
+  font-size: 15pt;
+  font-family: "Lato", serif;
+  font-weight: bold 700;
    
     
    
 
-  }
+}
 
 .kraw .menu2 {
-    display: flex;
-    flex-direction: row;
-    width: 50%;
+  display: flex;
+  flex-direction: row;
+  width: 50%;
 
   }
 
  .kraw2 p {
-    margin: 0px;
-    padding: 20px;
-    font-size: 15pt;
-    font-family: "Lato", serif;
-    font-weight: bold 700;
+  margin: 0px;
+  padding: 20px;
+  font-size: 15pt;
+  font-family: "Lato", serif;
+  font-weight: bold 700;
    
   }
 
   .kraw2 .button {
-    position: relative;
-    padding: 20px;
-    top: 60%;
-    background-color: #59331D;
-    border: none;
-    color: white;
-    padding: 15px;
-    text-decoration: none;
-    cursor: pointer;
-    transition-duration: 0.4s;
-    font-family: "Lato", serif;
-    font-size: 13pt;
+  position: relative;
+  padding: 20px;
+  top: 60%;
+  background-color: #59331D;
+  border: none;
+  color: white;
+  padding: 15px;
+  text-decoration: none;
+  cursor: pointer;
+  transition-duration: 0.4s;
+  font-family: "Lato", serif;
+  font-size: 13pt;
   }
 
   .kraw2 .button:hover {
-    background-color: #D98555;
-    border: none;
-    color: white;
-    padding: 15px;
-    text-decoration: none;
-    cursor: pointer;
-    font-size: 13pt;
+  background-color: #D98555;
+  border: none;
+  color: white;
+  padding: 15px;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 13pt;
 
-    }
+  }
 
   .kraw3 {
-    position: relative;
+  position: relative;
   width: 100%;
   margin-left: 0%;
   margin-top: 20px;
 
 
   }
-    .kraw3 h1 {
-      position: relative;
-      text-align: center;
-      margin-left: 50px;
-      font-size: 35pt;
-      font-family: "Poppins", serif;
-      font-weight: bold 700;
-      color: #082B59;
-    }
+  .kraw3 h1 {
+  position: relative;
+  text-align: center;
+  margin-left: 50px;
+  font-size: 35pt;
+  font-family: "Poppins", serif;
+  font-weight: bold 700;
+  color: #082B59;
+  }
 
-    .kraw3 p {
-      font-size: 15pt;
-      font-family: "Lato", serif;
-      font-weight: bold;
-      color: #082B59;
-      text-align: center;
-    }
+  .kraw3 p {
+  font-size: 15pt;
+  font-family: "Lato", serif;
+  font-weight: bold;
+  color: #082B59;
+  text-align: center;
+  }
    
   #para {
   display: grid;
@@ -2056,20 +2057,20 @@ color: #D98555;
   flex-direction: column;
   width: 100%;
   height: 900px;
- }
+  }
          
           
   .para2 {
-    background-color: white;
-    position: absolute;
-    margin-top: 0;
-    top: 0;
-    left: 0%;
-    width: 100%;
-    height: 100%;
+  background-color: white;
+  position: absolute;
+  margin-top: 0;
+  top: 0;
+  left: 0%;
+  width: 100%;
+  height: 100%;
   
   
-   }
+  }
      
 
   footer {   
@@ -2139,14 +2140,14 @@ color: #D98555;
   height: 20px;
   margin: 10px;
   padding: 0px;
-   }
+  }
             
   .cotbean {
-margin: 10%;
-max-width: 100%;
-display: flex;
-flex-direction: row; 
-justify-content: stretch;
+  margin: 10%;
+  max-width: 100%;
+  display: flex;
+  flex-direction: row; 
+  justify-content: stretch;
 
               
             
@@ -2160,48 +2161,48 @@ justify-content: stretch;
 @media only screen and (max-width: 768px) {
 
   #logo {
-    display: flex;
-    flex-direction: column-reverse;
-    justify-content: center;
-    padding: 20px; 
-    margin-left: 35%;
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  padding: 20px; 
+  margin-left: 35%;
   }
   
-    nav {
-    display: flex;
-    flex-direction: column-reverse;
-    justify-content: center;
-    list-style-type: none;
-    margin: 0px;
-    padding: 0px;
-    height: 500px;
-    max-width: 100%;
-    background-color: #131D26;
-    overflow: auto;
+  nav {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  height: 500px;
+  max-width: 100%;
+  background-color: #131D26;
+  overflow: auto;
   }
   
-    nav li {
-    display: flex;
-    flex-direction: column-reverse;
-    border-radius: 0%;
-    border-bottom-style: solid;
-    border-left-style: none;
-    border-width: 3px;
-    margin-top: 10px;
-    margin-left: 40%;
-    padding: 20px;
-    transition-duration: 0.4s;
-    width: 120px;
-    height: 100px;
+  nav li {
+  display: flex;
+  flex-direction: column-reverse;
+  border-radius: 0%;
+  border-bottom-style: solid;
+  border-left-style: none;
+  border-width: 3px;
+  margin-top: 10px;
+  margin-left: 40%;
+  padding: 20px;
+  transition-duration: 0.4s;
+  width: 120px;
+  height: 100px;
   }
   
   li a {
-    display: inline-block;
-    color: #F2F2F2;
-    text-align: center;
-    text-decoration: none;
-    font-size: 15pt;
-    font-family: "Lato", serif;
+  display: inline-block;
+  color: #F2F2F2;
+  text-align: center;
+  text-decoration: none;
+  font-size: 15pt;
+  font-family: "Lato", serif;
           
   }
 
@@ -2224,169 +2225,173 @@ justify-content: stretch;
   }
 
   .menu {
-    display: flex;
-    width: 100%;
-
+  display: flex;
+  width: 100%;
   }
 
-  
+  .prod1 {
+  display:grid;
+  width: 100%;
+  position: relative;
+  text-align: left;
+  top: 0%;
+   }
 
-.flex-container {
+  .prod1 h1 {
+  font-size: 35pt;
+  font-family: "Poppins", serif;
+  font-weight: bold 700;
+  color: #082B59;
+  padding: 0;
+  margin-left: 0%;
+  }
+
+  .flex-container {
 
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
  
-}
+  }
   .kraw {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    padding: 0;
-    margin-top: 0px;
-    margin-right: 0%;
-    text-align: right;
-    width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0;
+  margin-top: 0px;
+  margin-right: 0%;
+  text-align: right;
+  width: 100%;
 
   }
 
   .kraw h1 {
-    position: absolute;
-    padding: 0px;
-    text-align: left;
-    margin-left: 20px;
-    margin-top: 5%;
-    font-size: 25pt;
-    font-family: "Poppins", serif;
-    font-weight: bold 700;
-    color: #f2f2f2;
+  position: absolute;
+  padding: 0px;
+  text-align: left;
+  margin-left: 20px;
+  margin-top: 5%;
+  font-size: 25pt;
+  font-family: "Poppins", serif;
+  font-weight: bold 700;
+  color: #f2f2f2;
    
   }
 
   .kraw h2 {
-    position: absolute;
-    width: 30%;
-    text-align: right;
-    margin-top: 20%;
-    margin-left: 55%;
-    font-size: 20pt;
-    font-family: "Poppins", serif;
-    font-weight: bold 700;
-    color: #f2f2f2;
+  position: absolute;
+  width: 30%;
+  text-align: right;
+  margin-top: 20%;
+  margin-left: 55%;
+  font-size: 20pt;
+  font-family: "Poppins", serif;
+  font-weight: bold 700;
+  color: #f2f2f2;
   }
   
   .kraw2 {
-    display: flex;
-    flex-direction: row;
-    margin-top: 3%;
-    margin-left: 0%;
-    width: 100%;
-    padding: 30px;
-    color: #59331D;
-    font-size: 15pt;
-    font-family: "Lato", serif;
-    font-weight: bold 700;
-
-    
-   
-
+  display: flex;
+  flex-direction: row;
+  margin-top: 3%;
+  margin-left: 0%;
+  width: 100%;
+  padding: 30px;
+  color: #59331D;
+  font-size: 15pt;
+  font-family: "Lato", serif;
+  font-weight: bold 700;
   }
 
  .menu2 {
-    display: flex;
-    flex-direction: row;
-    width: 0%;
-
+  display: flex;
+  flex-direction: row;
+  width: 0%;
   }
 
  .kraw2 p {
-    margin: 0px;
-    padding: 20px;
-    font-size: 15pt;
-    font-family: "Lato", serif;
-    font-weight: bold 700;
+  margin: 0px;
+  padding: 20px;
+  font-size: 15pt;
+  font-family: "Lato", serif;
+  font-weight: bold 700;
    
   }
 
   .kraw2 .button {
-    position: relative;
-    padding: 20px;
-    top: 60%;
-    background-color: #59331D;
-    border: none;
-    color: white;
-    padding: 15px;
-    text-decoration: none;
-    cursor: pointer;
-    transition-duration: 0.4s;
-    font-family: "Lato", serif;
-    font-size: 13pt;
+  position: relative;
+  padding: 20px;
+  top: 60%;
+  background-color: #59331D;
+  border: none;
+  color: white;
+  padding: 15px;
+  text-decoration: none;
+  cursor: pointer;
+  transition-duration: 0.4s;
+  font-family: "Lato", serif;
+  font-size: 13pt;
   }
 
   .kraw2 .button:hover {
-    background-color: #D98555;
-    border: none;
-    color: white;
-    padding: 15px;
-    text-decoration: none;
-    cursor: pointer;
-    font-size: 13pt;
-
-    }
+  background-color: #D98555;
+  border: none;
+  color: white;
+  padding: 15px;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 13pt;
+  }
 
   .kraw3 {
-    position: relative;
+  position: relative;
   width: 80%;
   margin-left: 10%;
   margin-top: 20px;
-
-
   }
-    .kraw3 h1 {
-      position: relative;
-      text-align: center;
-      margin-left: 50px;
-      font-size: 35pt;
-      font-family: "Poppins", serif;
-      font-weight: bold 700;
-      color: #082B59;
-    }
 
-    .kraw3 p {
-      font-size: 15pt;
-      font-family: "Lato", serif;
-      font-weight: bold;
-      color: #082B59;
-      text-align: center;
-    }
+  .kraw3 h1 {
+  position: relative;
+  text-align: center;
+  margin-left: 50px;
+  font-size: 35pt;
+  font-family: "Poppins", serif;
+  font-weight: bold 700;
+  color: #082B59;
+  }
 
-    #para {
-      display: flex;
-      justify-content: center;
-      flex-direction: column;
-      max-width: 100%;
-      height: 100%;
-      
-    }
-       
-        
-      .para2 {
-      background-color: white;
-      position: absolute;
-      margin-top: 0;
-      top: 0;
-      left: 10%;
-      width: 80%;
-      height: 100%;
-      
-    }
-        
-    .kraw2 #logo {
-    width: 30%;
-    margin-right: 80%;
-    margin-top: 40%;
-    position: absolute;
-    }
+  .kraw3 p {
+  font-size: 15pt;
+  font-family: "Lato", serif;
+  font-weight: bold;
+  color: #082B59;
+  text-align: center;
+  }
+
+  #para {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  max-width: 100%;
+  height: 100%;
+  }
+     
+  .para2 {
+  background-color: white;
+  position: absolute;
+  margin-top: 0;
+  top: 0;
+  left: 10%;
+  width: 80%;
+  height: 100%;
+  }        
+
+  .kraw2 #logo {
+  width: 30%;
+  margin-right: 80%;
+  margin-top: 40%;
+  position: absolute;
+  }
 
 
 }
@@ -2401,7 +2406,7 @@ justify-content: stretch;
   justify-content: center;
   padding: 20px; 
   margin-left: 18%;
-}
+  }
 
   nav {
   display: flex;
@@ -2414,7 +2419,7 @@ justify-content: stretch;
   max-width: 100%;
   background-color: #131D26;
   overflow: auto;
-}
+  }
 
   nav li {
   display: flex;
@@ -2429,16 +2434,15 @@ justify-content: stretch;
   transition-duration: 0.4s;
   width: 120px;
   height: 100px;
-}
+  }
 
-li a {
+  li a {
   display: inline-block;
   color: #F2F2F2;
   text-align: center;
   text-decoration: none;
   font-size: 15pt;
   font-family: "Lato", serif;
-        
   }
 
   .containerGrid {
@@ -2448,39 +2452,33 @@ li a {
   grid-template-areas:
   "leftContent"
   "leftContent";
-  
-}
+  }
 
   .leftContent {
   display: grid;
   grid-area: leftContent;
+  }
 
-
-}
-
-#raz {
+  #raz {
   display: grid;
   grid-area: leftContent;
-  align-content:flex-start;
+  align-content: flex-start;
   text-align: left;
-  
-  
-  
-}
+  margin-left: 5%;
+  }
 
-#raz h1 {
+  #raz h1 {
   font-size: 35pt;
   font-family: "Poppins", serif;
   font-weight: bold 700;
   color: #082B59;
   padding: 0;
+  margin-right: 5%;
   margin-top: 580px;
-  
   }
   
   #raz h2 {
   margin-top: 0px;
-  margin-left: 0px;
   padding: 0px;
   font-size: 15pt;
   font-family: "Lato", serif;
@@ -2492,6 +2490,7 @@ li a {
   
   
   #raz p {
+  margin-right: 5%;
   margin-top: 0%;
   padding: 0px;
   font-size: 14pt;
@@ -2520,7 +2519,8 @@ li a {
   
   #raz .button {
   position: relative;
-  top: 5%;
+  margin-top: 10%;
+  margin-right: 55%;
   background-color: #59331D;
   border: none;
   color: white;
@@ -2544,7 +2544,7 @@ li a {
   font-size: 13pt;
   }
 
-.caption {
+  .caption {
   display: none;
   visibility: hidden;
   background-color: #59331D;
@@ -2553,9 +2553,9 @@ li a {
   transform: translate (50%, -50%);
   -ms-transform: translate (-50%, -50%);
   opacity: 0.85;
-}
+  }
 
-.prod1 {
+  .prod1 {
   display:grid;
   width: 100%;
   position: relative;
@@ -2565,36 +2565,38 @@ li a {
   
   
 
-}
+  }
 
 
-.prod1 h1 {
+  .prod1 h1 {
   font-size: 35pt;
   font-family: "Poppins", serif;
   font-weight: bold 700;
   color: #082B59;
   padding: 0;
   margin-left: 0px;
-}
+  }
 
-.row {
+  .row {
   display: flex;
   flex-wrap: wrap;
   padding: 0px;
   width: 100%
   
-}
+  }
 
 
-.row img {
+  .row img {
+  display: flex;
+  flex-direction: row;
   width: 100%;
   margin-top: 0px;
   padding: 0px;
   vertical-align: middle;
   margin-left: 0px;
-}
+  }
 
-.prod2 {
+  .prod2 {
   display: flex;
   flex-direction: row;
   width: 100%;
@@ -2602,11 +2604,11 @@ li a {
   padding: 0px;
   margin: 2%;
   background-color: #F2F2F2;
-  margin-left: 15%;
+  margin-left: 5%;
 
 
-}
-.prod2 h2 {
+  }
+  .prod2 h2 {
   margin-top: 0px;
   margin-left: 0px;
   padding: 0px;
@@ -2620,10 +2622,10 @@ li a {
   width: 100%;
   background-color: #082B59;
  
-}
+  }
 
 
-.prod2 p {
+  .prod2 p {
   padding: 0px;
   margin-top: -200px;
   font-size: 14pt;
@@ -2637,225 +2639,203 @@ li a {
   }
 
     
-.respimg {
+  .respimg {
   display: none;
   visibility: hidden;
  }
  .respimg2 { 
   display: none;
   visibility: hidden;
-}
-.respimg3 {
-display: grid;
-visibility: visible;
-  
-  
-  
-}
+  }
+  .respimg3 {
+  display: grid;
+  visibility: visible;
+  }
 
   .icoffee {
-    display: grid;
-    grid-area: leftContent;
-    margin-left: 0%;
-    margin-top: 0%;
-   
+  display: grid;
+  grid-area: leftContent;
+  margin-left: 0%;
+  margin-top: 0%;
   }
   
   .icoffee img {
-    
-    width: 100%;
-    margin-left: 0%;
-    margin-top: 1000px;
-    padding: 0;
-    text-align: center;
-    border-top-style: solid;
-    border-bottom-style: solid;
-    border-width: 30px;
-    border-color: #D98555;
-    
+  width: 100%;
+  margin-left: 0%;
+  margin-top: 1000px;
+  padding: 0;
+  text-align: center;
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-width: 30px;
+  border-color: #D98555;
   }
  
   .menu {
-    display: flex;
-    width: 100%;
-    margin-right: 0%;
-
-
+  display: flex;
+  width: 100%;
+  margin-right: 0%;
   }
 
   
 
-.flex-container {
-
+  .flex-container {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
- 
-}
-  .kraw {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    padding: 0;
-    margin-top: 0px;
-    margin-right: 0%;
-    text-align: right;
-    width: 100%;
+  }
 
+  .kraw {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0;
+  margin-top: 0px;
+  margin-right: 0%;
+  text-align: right;
+  width: 100%;
   }
 
   .kraw .menu2 {
-    display: flex;
-    flex-direction: column;
-    width: 100%; 
-    
-
-   
-
+  display: flex;
+  flex-direction: column;
+  width: 100%; 
   }
-
-
+  
   .menu {
-    display: flex;
-    width: 100%;
-    flex-direction: column;
-    
-   
-
+  display: flex;
+  width: 100%;
+  flex-direction: column;
   }
 
   .kraw h1 {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    padding: 0px;
-    text-align: left;
-    margin-left: 30px;
-    margin-top: 15%;
-    font-size: 18pt;
-    font-family: "Poppins", serif;
-    font-weight: bold 700;
-    color: #f2f2f2;
-   
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0px;
+  text-align: left;
+  margin-left: 30px;
+  margin-top: 15%;
+  font-size: 18pt;
+  font-family: "Poppins", serif;
+  font-weight: bold 700;
+  color: #f2f2f2;
   }
 
   .kraw h2 {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    width: 100%;
-    text-align: left;
-    margin-top: 800px;
-    margin-left: 0px;
-    font-size: 15pt;
-    font-family: "Poppins", serif;
-    font-weight: bold 700;
-    color: #59331D;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  width: 100%;
+  text-align: left;
+  margin-top: 800px;
+  margin-left: 0px;
+  font-size: 15pt;
+  font-family: "Poppins", serif;
+  font-weight: bold 700;
+  color: #f2f2f2;
+  background-color: #59331D;
+  opacity: 0.8;
+  padding: 10px;
   }
   
   .kraw2 {
-    display: flex;
-    flex-direction: column;
-    align-content: flex-end;
-    margin-top: 50%;
-    margin-left: 0%;
-    width: 100%;
-    padding: 0px;
-    color: #59331D;
-    border-style: none;
-    font-size: 15pt;
-    font-family: "Lato", serif;
-    font-weight: bold 700;
-
-    
-   
-
+  display: flex;
+  flex-direction: column;
+  align-content: flex-end;
+  margin-top: 50%;
+  margin-left: 0%;
+  width: 100%;
+  padding: 0px;
+  color: #59331D;
+  border-style: none;
+  font-size: 15pt;
+  font-family: "Lato", serif;
+  font-weight: bold 700;
   }
+
   .kraw2 p {
-    margin: 0px;
-    display: flex;
-    flex-direction: column;
-    align-content: flex-start;
-    padding: 0px;
-    font-size: 15pt;
-    font-family: "Lato", serif;
-    font-weight: bold 700;
-   
+  margin: 0px;
+  display: flex;
+  flex-direction: column;
+  align-content: flex-start;
+  padding: 0px;
+  font-size: 15pt;
+  font-family: "Lato", serif;
+  font-weight: bold 700;
   }
 
  .kraw2 .button {
-    position: relative;
-    padding: 0px;
-    margin-top: -50px;
-    width: 150px;
-    height: 50px;
-    background-color: #59331D;
-    border: none;
-    color: white;
-    padding: 15px;
-    text-decoration: none;
-    cursor: pointer;
-    transition-duration: 0.4s;
-    font-family: "Lato", serif;
-    font-size: 13pt;
+  position: relative;
+  padding: 0px;
+  margin-top: -50px;
+  width: 150px;
+  height: 50px;
+  background-color: #59331D;
+  border: none;
+  color: white;
+  padding: 15px;
+  text-decoration: none;
+  cursor: pointer;
+  transition-duration: 0.4s;
+  font-family: "Lato", serif;
+  font-size: 13pt;
   }
 
   .kraw2 .button:hover {
-    background-color: #D98555;
-    border: none;
-    color: white;
-    padding: 15px;
-    text-decoration: none;
-    cursor: pointer;
-    font-size: 13pt;
-
-    }
+  background-color: #D98555;
+  border: none;
+  color: white;
+  padding: 15px;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 13pt;
+  }
   
   .kraw3 {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    width: 100%;
-    margin-left: 0%;
-    margin-top: 80%;
-
-
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  width: 100%;
+  margin-left: 0%;
+  margin-top: 60%;
   }
-    .kraw3 h1 {
-      position: relative;
-      text-align: center;
-      margin-left: 0px;
-      font-size: 35pt;
-      font-family: "Poppins", serif;
-      font-weight: bold 700;
-      color: #082B59;
-    }
 
-    .kraw3 p {
-      margin-left: 0%;
-      font-size: 15pt;
-      font-family: "Lato", serif;
-      font-weight: bold;
-      color: #082B59;
-      text-align: center;
-    }
+  .kraw3 h1 {
+  position: relative;
+  text-align: center;
+  margin-left: 0px;
+  font-size: 35pt;
+  font-family: "Poppins", serif;
+  font-weight: bold 700;
+  color: #082B59;
+  }
 
-  .kraw3  a {
-      color: #082B59;
-      font-family: "Lato", serif;
-      text-align: center;
-      font-size: 15pt;
-      font-weight: bold;
-      }
+  .kraw3 p {
+  margin-left: 0%;
+  font-size: 15pt;
+  font-family: "Lato", serif;
+  font-weight: bold;
+  color: #082B59;
+  text-align: center;
+  }
 
-    .kraw3 a:hover {
-        color: #59331D;
-        font-family: "Lato", serif;
-        text-align: center;
-        font-size: 16pt;
-        font-weight: bold;
-        }
+  .kraw3 a {
+  color: #082B59;
+  font-family: "Lato", serif;
+  text-align: center;
+  font-size: 15pt;
+  font-weight: bold;
+  }
 
+  .kraw3 a:hover {
+  color: #59331D;
+  font-family: "Lato", serif;
+  text-align: center;
+  font-size: 16pt;
+  font-weight: bold;
+  }
+  
   .cotbean {
   position: relative;
   display: none;
@@ -2863,47 +2843,43 @@ visibility: visible;
   height: auto;
   display: flex;
   justify-content: center;
-  
-}
+  }
+
   .para2 {
   display: flex;
   flex-direction: column;
   max-width: 100%;
   height: 100%;
-}
+  }
 
   #para {
-    display: flex;
-    flex-direction: column;
-    max-width: 100%;
-    height: 100%;
-     }
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+  height: 100%;
+  }
 
-     footer {
-   
-      display: grid;
-      flex-direction: column;
-      grid-template-columns: 1fr;
-      grid-template-areas: "footcol";
-      justify-content: flex-end;
-      text-align: center;
-      position: relative;
-      top: 0%;
-      margin-top: 1700px;
-      margin-left: 20px;
-      max-width: 100%;
-      height: 100%;
-      background-color: white;
-      
-       
-    }
-.footcol {
+  footer {
+  display: grid;
+  flex-direction: column;
+  grid-template-columns: 1fr;
+  grid-template-areas: "footcol";
+  justify-content: flex-end;
+  text-align: center;
+  position: relative;
+  margin-top: 1900px;
+  margin-left: 20px;
+  max-width: 100%;
+  background-color: white;
+  height: 100%;
+  }
+
+  .footcol {
   display:grid;
   grid-area: footcol;
-}
+  }
 
-footer p {
-    
+  footer p {
   display: grid;
   text-align: center;
   color: #59331D;
@@ -2913,106 +2889,99 @@ footer p {
   width: 100%;
   padding: 30px;
   margin-top: 0px;
-      
-}
+  }
     
-footer a {
-margin: 0px;
-color: #59331D;
-font-family: "Lato", serif;
-font-size: 13pt; 
-font-weight: bold;
-}
+  footer a {
+  margin: 0px;
+  color: #59331D;
+  font-family: "Lato", serif;
+  font-size: 13pt; 
+  font-weight: bold;
+  }
 
     
-.icons {
+  .icons {
   display: grid;
   text-align: center;
   position: relative;
   left: 5%;
   padding: 5px;
-  margin: 20px;
-}
+  margin-top: 20px;
+  }
 
-.icons a:hover {
+  .icons a:hover {
   color: #D98555;
-}
+  }
     
-.fa-brands {
+  .fa-brands {
   width: 20px;
   height: 20px;
   margin: 10px;
   padding: 0px;
- 
   }
 
   .conta {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    padding: 0;
-    margin-top: 5%;
-    margin-right: 0%;
-    text-align: right;
-    width: 100%;
-
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0;
+  margin-top: 5%;
+  margin-right: 0%;
+  text-align: right;
+  width: 100%;
   }
 
-  .conta2 img 
-  {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    width: 100%;
- 
-
+  .conta2 img {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%; 
   }
 
   .conta3 h1 {
-    position: relative;
-    text-align: center;
-    margin-left: 0px;
-    font-size: 35pt;
-    font-family: "Poppins", serif;
-    font-weight: bold 700;
-    color: #082B59;
+  position: relative;
+  text-align: center;
+  margin-left: 0px;
+  font-size: 35pt;
+  font-family: "Poppins", serif;
+  font-weight: bold 700;
+  color: #082B59;
   }
 
   .conta3 p {
-    margin-left: 0%;
-    font-size: 15pt;
-    font-family: "Lato", serif;
-    font-weight: bold;
-    color: #082B59;
-    text-align: center;
+  margin-left: 0%;
+  font-size: 15pt;
+  font-family: "Lato", serif;
+  font-weight: bold;
+  color: #082B59;
+  text-align: center;
   }
 
-.conta3 a {
-    color: #082B59;
-    font-family: "Lato", serif;
-    text-align: center;
-    font-size: 15pt;
-    font-weight: bold;
-    }
+  .conta3 a {
+  color: #082B59;
+  font-family: "Lato", serif;
+  text-align: center;
+  font-size: 15pt;
+  font-weight: bold;
+  }
 
   .conta3 a:hover {
-      color: #59331D;
-      font-family: "Lato", serif;
-      text-align: center;
-      font-size: 16pt;
-      font-weight: bold;
-      }
+  color: #59331D;
+  font-family: "Lato", serif;
+  text-align: center;
+  font-size: 16pt;
+  font-weight: bold;
+  }
 
+  .responsive-map iframe {   
+  margin-top: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  border-style: none;
+  height: 300px;
+  width: 100%;
+  display: none;
+  visibility: hidden;
+  }
 
-  .responsive-map iframe {
-    
-    margin-top: 0px;
-    margin-left: 0px;
-    padding-top: 0px;
-    border-style: none;
-    height: 300px;
-    width: 100%;
-    display: none;
-    visibility: hidden;
-    }
 }
